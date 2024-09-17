@@ -1,5 +1,25 @@
+/* CSS HEX */
+/* --rich-black: #000814ff;      --oxford-blue: #0a1128ff;
+--penn-blue: #001f54ff;
+--indigo-dye: #034078ff;           brown #a98467
+--cerulean: #1282a2ff;
+--white: #fefcfbff;          
+--oxford-blue: #001d3dff;      #0b2545
+--yale-blue: #003566ff;              
+--mikado-yellow: #ffc300ff;
+--gold: #ffd60aff; */
+
+body{
+    
+}
+
 img{
     width: 300px;
-    border: 1px solid rgb(109, 31, 31) ;
+    border: 1px solid rgb(46, 0, 0) ;
     border-radius: 10px;
+
+
+
+
 }
+
